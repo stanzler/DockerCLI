@@ -1,0 +1,6 @@
+# Tomcat CLI configuration
+
+# Environment for deploying Spring services
+
+docker run 
+  -p "8888:8080" tomcat:8.0

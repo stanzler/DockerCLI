@@ -1,0 +1,7 @@
+# pgAdmin CLI configuration
+
+# Accessible via browser
+
+docker run 
+  -p "80:80" dpage/pgadmin4
+  
